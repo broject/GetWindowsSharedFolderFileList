@@ -1,0 +1,7 @@
+c:\users\boroo\documents\visual studio 2012\Projects\WindowsSharedFolderFiles\WindowsSharedFolderFiles\bin\Debug\WindowsSharedFolderFiles.exe
+c:\users\boroo\documents\visual studio 2012\Projects\WindowsSharedFolderFiles\WindowsSharedFolderFiles\bin\Debug\WindowsSharedFolderFiles.pdb
+c:\users\boroo\documents\visual studio 2012\Projects\WindowsSharedFolderFiles\WindowsSharedFolderFiles\obj\Debug\WindowsSharedFolderFiles.Form1.resources
+c:\users\boroo\documents\visual studio 2012\Projects\WindowsSharedFolderFiles\WindowsSharedFolderFiles\obj\Debug\WindowsSharedFolderFiles.Properties.Resources.resources
+c:\users\boroo\documents\visual studio 2012\Projects\WindowsSharedFolderFiles\WindowsSharedFolderFiles\obj\Debug\WindowsSharedFolderFiles.csproj.GenerateResource.Cache
+c:\users\boroo\documents\visual studio 2012\Projects\WindowsSharedFolderFiles\WindowsSharedFolderFiles\obj\Debug\WindowsSharedFolderFiles.exe
+c:\users\boroo\documents\visual studio 2012\Projects\WindowsSharedFolderFiles\WindowsSharedFolderFiles\obj\Debug\WindowsSharedFolderFiles.pdb
